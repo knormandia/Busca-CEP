@@ -30,7 +30,7 @@ function apresentarDadosCEP(obj){
     Logradouro: ${obj.logradouro}
     Bairro: ${obj.bairro}
     Localidade: ${obj.localidade}
-    Uf: ${obj.uf}`: 
+    UF: ${obj.uf}`: 
     "CEP inexistente.";
 
 }
